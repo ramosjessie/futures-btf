@@ -1247,7 +1247,7 @@ function BuildingTheFuture2026() {
           </em>
         </p>
         <p>
-          Across South Australia, Indonesia, the United States and Brazil,
+          Across South Australia, Indonesia, the United States and Venezuela,
           churches are being planted, leaders are being raised, and people are
           finding Jesus for the first time. What God is doing through Futures
           Church is nothing short of extraordinary, and we are only just
@@ -1764,7 +1764,8 @@ function WellnessClinic() {
         className="font-[family-name:var(--font-display)] uppercase leading-[0.88] tracking-[-0.01em]"
         style={{ fontSize: 'clamp(2.75rem, 9vw, 9rem)' }}
       >
-        Sentul <span className="text-[var(--color-gold-800)]">City</span>.
+        <span className="block sm:inline">Sentul City, </span>
+        <span className="text-[var(--color-gold-800)]">Indonesia.</span>
       </h2>
 
       <YellowStrip className="mt-8 md:mt-10 w-full max-w-[760px]" />
