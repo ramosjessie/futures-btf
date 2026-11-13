@@ -1247,7 +1247,7 @@ function BuildingTheFuture2026() {
           </em>
         </p>
         <p>
-          Across South Australia, Indonesia, the United States and Brazil,
+          Across South Australia, Indonesia, the United States and Venezuela,
           churches are being planted, leaders are being raised, and people are
           finding Jesus for the first time. What God is doing through Futures
           Church is nothing short of extraordinary, and we are only just
