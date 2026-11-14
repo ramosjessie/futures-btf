@@ -1705,7 +1705,10 @@ export function MountBarker() {
             id={SUGARLOAF_VIMEO.id}
             hash={SUGARLOAF_VIMEO.hash || undefined}
             title="Sugarloaf Building"
-            posterTitle="Sugarloaf"
+            poster={{
+              src: '/media/portraits/sugarloaf-poster.jpg',
+              alt: 'Sugarloaf Building: the Sugarloaf Parkway and Old Peachtree Rd site beside a rendering of the new Futures building.',
+            }}
           />
         ) : (
           <div
